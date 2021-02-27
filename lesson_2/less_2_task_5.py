@@ -1,0 +1,24 @@
+# Вывести на экран коды и символы таблицы ASCII,
+# начиная с символа под номером 32 и заканчивая 127-м включительно.
+# Вывод выполнить в табличной форме: по десять пар "код-символ" в каждой строке.
+
+# ссылка на схему: https://viewer.diagrams.net/?highlight=0000ff&edit=_blank&layers=1&nav=1&page-id=LUeC-Vcyk962dgx7huSo&title=lesson_2.drawio#R%3Cmxfile%3E%3Cdiagram%20id%3D%2282sQNOcElkca14ihe882%22%20name%3D%22less_2_task_4%22%3E7VpJb%2BM2FP41PibQQm1HO0476AIEzaHtacBKjMQpJXpoeuuvL0VRK%2BmMp7aiKOhFEJ9IUfze91Z74T7kxx8Z3GS%2F0gSRhWMlx4W7XjhOBBxxLQWnSuBEjlVJUoaTSma3gmf8D1LCetoOJ2jbm8gpJRxv%2BsKYFgWKeU8GGaOH%2FrQXSvq7bmCKNMFzDIku%2FR0nPKukoRO08k8Ip1m9s%2B1H1ZMc1pPVSbYZTOihI3IfF%2B4Do5RXd%2FnxAZESvBqXat0PZ542H8ZQwS9ZEOyD4NPPT4flGnxdOV9%2F%2B%2FLT7nDnV2%2FZQ7JTB1Yfy081AigRgKghZTyjKS0geWylK0Z3RYLKbSwxauf8QulGCG0h%2FII4Pyntwh2nQpTxnKin1Z7lRmfPpkRbumMxeuVANUcgSxF%2FZZ7baEBQF9EccXYS6xgikON9%2Fzug4lDazGthFjcK6e9A3dZRF9BF6%2FK6shYCkzCo78V1Ja%2BPmma2nNG%2FG1o6fUwF3TblvPyYlpZ5%2F0LoIc4g4%2FdbAQ7%2FXM45ZJij5w2UiB7EtEYXe8Q4Or6uDR09tcCtlyijvxMGo4zg0NqQHSryZR378ayRIHfMkC8VtOW1gt%2BT8PuzAdv2wz7YdmBPDXY4hRMReLHTH%2BX6e68e%2FqleJwfrY290UqMbOh%2F3QucDpnQ%2BrtESVt1rZQ%2FiK61CtwNFdYEPJAQRKhifCxg3iGHxgYgNnz21D4w20FHhCz6iOgewb%2BWLwMAX2ZHJPKw3NI%2FoowVdcCHvvSl5DzTUoRjKO8vWFNDCe853d6CEf20p2XG0ZHGHvbAdgTJGaAFkHHqbvH8Q6fQGY9Hb%2FnBJpXchv%2B0zynobgnsa7AneNxSXZBfvdyxdG7MluwUmJ%2FvcuX01Z9XSJ4rF1o2uPN%2Fq68oOg4EOKnNS61o1LBmDp860TTlh%2Bz07Rf1KWNxU72y13JzzCsW7%2FyvepA7nzRSv7xQNWyAXf9u4VNHr%2FUJ6Yx%2FmpXNNudSsIQv5j0VngmK8xbQYscT3wRD7wOCKLUNa3Qhv74v1FE8W%2BUD1UoboiuPzAaQS7wdKaFnGFLRAsiohZCCCBKcC3XUs4JKFTQkmjiFZqgc5ThJp8Sb8%2B17gBtoAkWYJnq4NYFCGM5ou9Gyk0%2BOqmix66PwwGnGtd6cRYCj8Zx7BVBP%2Bm3m5c2Wku84SArMlONIGVsa2C9QjwbzaLk0w07OAbnxwDAbgj2UA0%2FD9HbQl7XCUTM%2FzontvqOVhcD%2BT690stQo142q7OlXJW2ZWshCeZ9ELgrP59GRFLzD8gDXvUOKGF4YSN5oylrg63bs9nrua6nPv9BhIb01O%2BncVPuxvhA856uQAN%2F%2BpK7rQYG7TZri%2BKeT7r%2FcGgD2saAcrxukN1DgOewPSngtl07P9eUK348Adz47FsP07TaWg9k9J7uO%2F%3C%2Fdiagram%3E%3Cdiagram%20id%3D%22LUeC-Vcyk962dgx7huSo%22%20name%3D%22less_2_task_5%22%3E7Vttc5s4EP41nmk%2FOAMSL%2Baj33LXm95cZjI3137KKCDbtBh5hBzb%2FfUngcACKbHTGFM7%2FRBHWhYB%2B%2ByuHq2gB8fL7R8UrRZ%2FkwgnPWBF2x6c9ACwfS%2Fg%2F4RkV0hc4BaCOY0jqbQX3Mc%2FsBRaUrqOI5zVFBkhCYtXdWFI0hSHrCZDlJJNXW1GkvpVV2iONcF9iBJd%2Bl8csUUhHQB%2FL%2F8Tx%2FNFeWW7fOAlKpXlk2QLFJGNIoLTHhxTQljRWm7HOBHGK%2B3yzbHv%2FiXkL%2FJlmFnW59kuXqF%2BMdjta06pHoHilJ12aOAVYz%2BhZC0NJh%2BW7UoL4ogbVHYJZQsyJylKpnvpiJJ1GmFxHYv39jqfCVlxoc2F3zBjO%2BkdaM0IFy3YMpFHi2uKCzVAO%2FDEUi8jaxrilx5TOh6ic%2FzSeLCClccDJkvM6I6fR3GCWPxUvzkkHXNe6e2NzxvS%2Fq%2FBQoNitk5DLvmAeoAPaT0W%2F8KPGkQZo%2BR75d%2Bgblzutyuht9zORYjfzBKyCReIspuMG4Q9CJ3NImb4foVyK264WgXKE6YMb38CFt2MchSnTA0yo0DZ3ezD0x5Iv1wooelaLRneuUaXf6sry1PvSMxvp8LOc%2BrYAacBShFi8qwGLtVt%2FDxU7m%2BojoUKet1CBbV0xtOYlbdEJjtNBotwGGcxSc%2BdwlxYs60NDDnMsvQcVglPnsQMEzn398ARvyNLszc3CGsYOUdgTBJCuSQlqYidWZwkDRFK4jm39yTkBsRcPhLmjTnhGsoDyziK8sAzIVIPxrbwcYO679uOjo9jgAe0hY5vRmeSo%2BP2OAADnXhdN0bQhzfur4XSwIjSCCgoWXm7wG0g7qHgZPkxW0rF71g5c5r%2FckNaw%2Fvxp085o9M53N7qzxEyxRHQY0aSNcNDGsppK5fue07lLWpObS3enptr1HzoG6Bszkkng9LuZB3DbUh3X%2BT5eeer6HA%2Fl93JVj042am9O0xj%2FvAiXpXAa492yHXuwUWR%2FQz2r%2BMnQ0rRTlFYCd6RHU9ffMttOEUx4kk5i%2B116zV7R%2Fla85NL9Br3jV7zpvAPzOQTeGgpMmnCcktdPA%2BF9hF597w81LbNVGeoTIUq7dEj7rKKGdCvIeANuq5m2PrC6x2vBBzQiBCvY45pO2Z43vVSwKqDBLteCNh%2BFzyg7an7zVPycTVBJ2jA0nKhCcBLIm3nAfkIggbAKbzhtbTeAaDuLMBq%2BEQbtN7Vcq7YU7H6%2FC%2FMeaEgg%2FbHvOmKptUrS5X6hHlZFNHxG7nVMAFW5csaRWwvu%2Brs%2FB0zFDfw6gAFHU9%2B5cC%2FGYpK861fDKROdsIuqlJRvW7SeoHrbUiaF8xtVZ3lZJcfvNUu4WoDOKXypMzOanda6vMRYP47Ve4rTxT7wQvloVRuuu9F17%2BDZyjwoTqM31p%2B6OSlhsvKD%2BAy8gM4a364oqjUdxhNcRl4pdJZAhMaynNXWGso3688vAwNOg2uFzfmiwDyy3YeLkXonGhN2E3Num83621d16yBeef9WjcNNABc6HaMADSUpa8xLR27fQktM4JnSkvmCskIGOl5ul4%2ByBlfNA2bmtL%2FuRlRkuCE8DBYmhbravysFDpWO1HhaQdW5I3ZX4yaFW3rBsA2Ayywmu8Wmd7Q83w9wrzWIsyQ464wwsq55HCEeV1GGNSLXFH81CurvjKklHLwFfHiflm%2BK%2FdEIbgxzD%2BuYb3qum3hYVjl5LbvlwWHab2qUNEzUKst1JRB2XWU4sZIaZcrJqF8eypOgdKUMO7CJH0ASnkzwTNRIE3QI07uSBazfC9gQgvjjvKNE0ynT1jsn6ixenoHGNQrztW3Wgr6JvDbe2nEMZScrzE3esfmxk4XRVB%2Fl5ziH1VuFF8lfdA5h2jyFGr4OKlkH5SEOMsOp8tHFH6f52D%2Bs2ZJnOKWw6Ef1N%2Fmh6b1kA%2FOyBUcQ034GuPhWDZerA87i4fn2TifN0ZGTp4HzLun4bblNStwpjcUg%2BAkscW7%2B69xi3cH9t80w%2Bn%2F%3C%2Fdiagram%3E%3C%2Fmxfile%3E
+
+def ascii_view(a, b, c):
+    if a == b:
+        return (f'{a}-{chr(a)} ')
+    if a < b:
+        res = ascii_view(a + 1, b, c)
+        if (a - c + 1) % 10 == 0:
+            return f'{a} - {chr(a)}\n{res}'
+        else:
+            return f'{a} - {chr(a)} {res}'
+
+
+start_num = 32  # можно осуществить ввод пользователем
+stop_num = 127  # можно осуществить ввод пользователем
+start_table_number = (start_num % 10)
+
+rezult = ascii_view(start_num, stop_num, start_table_number)
+
+print(rezult)

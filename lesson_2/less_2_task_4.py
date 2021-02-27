@@ -1,0 +1,15 @@
+#4. Найти сумму n элементов следующего ряда чисел: 1, -0.5, 0.25, -0.125,…
+# Количество элементов (n) вводится с клавиатуры.
+
+# ссылка на схему: https://viewer.diagrams.net/?highlight=0000ff&edit=_blank&layers=1&nav=1&title=lesson_2.drawio#R7VpJb%2BM2FP41PibQQm1HO0476AIEzaHtacBKjMQpJXpoeuuvL0VRK%2BmMp7aiKOhFEJ9IUfze91Z74T7kxx8Z3GS%2F0gSRhWMlx4W7XjhOBBxxLQWnSuBEjlVJUoaTSma3gmf8D1LCetoOJ2jbm8gpJRxv%2BsKYFgWKeU8GGaOH%2FrQXSvq7bmCKNMFzDIku%2FR0nPKukoRO08k8Ip1m9s%2B1H1ZMc1pPVSbYZTOihI3IfF%2B4Do5RXd%2FnxAZESvBqXat0PZ542H8ZQwS9ZEOyD4NPPT4flGnxdOV9%2F%2B%2FLT7nDnV2%2FZQ7JTB1Yfy081AigRgKghZTyjKS0geWylK0Z3RYLKbSwxauf8QulGCG0h%2FII4Pyntwh2nQpTxnKin1Z7lRmfPpkRbumMxeuVANUcgSxF%2FZZ7baEBQF9EccXYS6xgikON9%2Fzug4lDazGthFjcK6e9A3dZRF9BF6%2FK6shYCkzCo78V1Ja%2BPmma2nNG%2FG1o6fUwF3TblvPyYlpZ5%2F0LoIc4g4%2FdbAQ7%2FXM45ZJij5w2UiB7EtEYXe8Q4Or6uDR09tcCtlyijvxMGo4zg0NqQHSryZR378ayRIHfMkC8VtOW1gt%2BT8PuzAdv2wz7YdmBPDXY4hRMReLHTH%2BX6e68e%2FqleJwfrY290UqMbOh%2F3QucDpnQ%2BrtESVt1rZQ%2FiK61CtwNFdYEPJAQRKhifCxg3iGHxgYgNnz21D4w20FHhCz6iOgewb%2BWLwMAX2ZHJPKw3NI%2FoowVdcCHvvSl5DzTUoRjKO8vWFNDCe853d6CEf20p2XG0ZHGHvbAdgTJGaAFkHHqbvH8Q6fQGY9Hb%2FnBJpXchv%2B0zynobgnsa7AneNxSXZBfvdyxdG7MluwUmJ%2FvcuX01Z9XSJ4rF1o2uPN%2Fq68oOg4EOKnNS61o1LBmDp860TTlh%2Bz07Rf1KWNxU72y13JzzCsW7%2FyvepA7nzRSv7xQNWyAXf9u4VNHr%2FUJ6Yx%2FmpXNNudSsIQv5j0VngmK8xbQYscT3wRD7wOCKLUNa3Qhv74v1FE8W%2BUD1UoboiuPzAaQS7wdKaFnGFLRAsiohZCCCBKcC3XUs4JKFTQkmjiFZqgc5ThJp8Sb8%2B17gBtoAkWYJnq4NYFCGM5ou9Gyk0%2BOqmix66PwwGnGtd6cRYCj8Zx7BVBP%2Bm3m5c2Wku84SArMlONIGVsa2C9QjwbzaLk0w07OAbnxwDAbgj2UA0%2FD9HbQl7XCUTM%2FzontvqOVhcD%2BT690stQo142q7OlXJW2ZWshCeZ9ELgrP59GRFLzD8gDXvUOKGF4YSN5oylrg63bs9nrua6nPv9BhIb01O%2BncVPuxvhA856uQAN%2F%2BpK7rQYG7TZri%2BKeT7r%2FcGgD2saAcrxukN1DgOewPSngtl07P9eUK348Adz47FsP07TaWg9k9J7uO%2F
+
+amount = int(input('Ввдите количество элементов последовательности: '))
+number = 1
+divid = - number / 2
+
+while amount > 1:
+    number += divid
+    divid = - divid / 2
+    amount -= 1
+
+print(f'Результат сложения последовательности n чисел: {number}')
